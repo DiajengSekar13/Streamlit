@@ -1,9 +1,10 @@
 streamlit
-pandas
-langchain
-langchain-groq
-tenacity
+scikit-learn
+nltk
+scipy
+streamlit
+joblib
+nltk
+wordcloud
 matplotlib
-seaborn
-openai
-openpyxl
+scipy
